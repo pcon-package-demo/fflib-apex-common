@@ -1,0 +1,28 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "2024-07-26",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "fflib-apex-common",
+      "versionDescription": "",
+      "definitionFile": "config/project-scratch-def.json",
+      "dependencies": [
+        {
+          "package": "fflib-apex-mocks",
+          "versionNumber": "1.0.0.LATEST"
+        }
+      ]
+    }
+  ],
+  "name": "sfdc-fflib-apex-common",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "fflib-apex-common": "0Hoak0000000CnZCAU",
+    "fflib-apex-mocks": "0Hoak0000000ClxCAE",
+    "fflib-apex-common@1.0.0-1": "04tak0000002cCTAAY"
+  }
+}
